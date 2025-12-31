@@ -12,6 +12,4 @@ Hi 👋 I’m Lindokuhle Nqwala<br>Beginner Python Developer 🚀<br><br>I’m c
 ---
 [![](https://visitcount.itsvg.in/api?id=Lindokuhle-Nqwala&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- ⚡ Fun fact: ...
--->
+
